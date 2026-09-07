@@ -1,0 +1,8 @@
+# Ignore a specific file
+todo.list
+
+# Ignore all files of a specific extension
+*.csv
+*.zip
+*.pdf
+*.jpg
