@@ -2,9 +2,9 @@
 
 - Kmeans image compression.
 - ISOMAP dimensional reduction.
-- Spetral clustering of political blogs.
+- Spetral clustering.
 - Eigenface facial recognition.
-- Expectation maximization classification.
+- Expectation-maximization classification.
 - Local weighted linear regression.
 - high order SVD
 - a miniature auto-grade for packpropagation.
