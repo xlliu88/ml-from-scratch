@@ -1,6 +1,6 @@
 '''
 A miniature implementation of backpropagation auto-grade
-only support scaler
+only support scalar
 '''
 
 import numpy as np
